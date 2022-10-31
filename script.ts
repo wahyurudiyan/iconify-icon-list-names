@@ -8,7 +8,6 @@ const main = async () => {
 	const typesFileNames = await Promise.all(collections.map(generateIconNamesFromCollection));
 	await createBarrel(typesFileNames);
 };
-
 const cleanTypesDirectory = async () => {
 	await rm('./types', { recursive: true, force: true });
 	await mkdir('./types');
