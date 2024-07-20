@@ -10,12 +10,11 @@
   "keywords": [],
   "author": "Marcin Wos",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "@types/node": "^18.11.8",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.8.4",
-    "@iconify/json": "^2.1.131",
-    "pascal-case": "^3.1.2"
+    "@iconify/json": "^2.2.229",
+    "@types/node": "^18.19.41",
+    "pascal-case": "^3.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5"
   }
 }
