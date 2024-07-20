@@ -1,5 +1,9 @@
 # Typescript types for Iconify icons
 
+## Forked From
+[CaptainObjective/iconify-icon-names](https://github.com/CaptainObjective/iconify-icon-names)
+
+
 ## How to use
 
 First install type with your favorite package manager
